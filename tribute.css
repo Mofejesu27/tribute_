@@ -1,0 +1,30 @@
+.text-content{
+   background: url(images/tributeimage.jpg);
+   height:400px;
+   background-repeat: no-repeat;
+   
+   width: 100%;
+}
+.identification{
+    text-align: center;
+}
+.navbar{
+    background-color: black;
+
+}
+
+.navbar a{
+    padding: 20px;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    overflow: hidden;
+    
+}
+
+
+
+
+
+
